@@ -1,27 +1,50 @@
-# EticaretClient
+# 
+# Eticaret Projesi | Front-End
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
+### :gear: **Installation** 
 
-## Development server
+1. Download all of the project files.
+2. Open folder with terminal => ng install 
+3. terminal => ng serve 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+### :open_file_folder: **Related Folders**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+•	Component : Includes HTML,Typesript and CSS files. The Typescript files generally use related component service.
 
-## Build
+•	Services : It is the part the connection with the API is provided.Confusion is avoided by implementation service in Component after write the necessary method.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+•	Models : Data from the API is kept as a property from an interface on the Front-End and displayed to user in Component
 
-## Running unit tests
+•	Pipes : If we have a data and we want using data differently can use the pipe.(For Example: If we have a price data and want add vat this price, we can use pipe)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### :computer: **Technologies** 
 
-## Running end-to-end tests
+o	Angular -v12.2.4
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+o	Bootstrap 5
 
-## Further help
+o	Bootstrap icons
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+o	Ngx-spinner Service
+
+o	Toastr Service
+
+### :floppy_disk: **Application Pictures**
+![image](https://user-images.githubusercontent.com/109723263/196983226-841f4f15-442b-43d7-abb9-55d15dec8111.png)
+![image](https://user-images.githubusercontent.com/109723263/196983253-b8edb910-2ca7-4c57-9b82-09fe5b5fae5a.png)
+![image](https://user-images.githubusercontent.com/109723263/196983295-7762830a-da06-40d8-91b0-d7f74d8d2a1b.png)
+![image](https://user-images.githubusercontent.com/109723263/196983314-9784a316-8696-4605-a352-4929cba8b802.png)
+![image](https://user-images.githubusercontent.com/109723263/196983384-6b9fc5a9-bd9b-4cb3-8666-a300a4ff3932.png)
+![image](https://user-images.githubusercontent.com/109723263/196983429-e387b2a3-0dca-4488-bf74-10ead6c24610.png)
+![image](https://user-images.githubusercontent.com/109723263/196983449-c91b3cf1-1b4b-4b9b-8a31-56b2b44ee2cf.png)
+![image](https://user-images.githubusercontent.com/109723263/196983843-f19e6253-b298-4a94-a4ec-4f8c989cc24c.png)
+![image](https://user-images.githubusercontent.com/109723263/196983891-e408c491-3834-4d9c-a644-878680977ccc.png)
+![image](https://user-images.githubusercontent.com/109723263/196986850-e88825d8-f68d-45f1-b7b2-6be9530cd3b0.png)
+![image](https://user-images.githubusercontent.com/109723263/196986875-93559c6b-3fbe-4672-b98b-4947fc508e75.png)
+![image](https://user-images.githubusercontent.com/109723263/196986907-8e8d62d2-9ae3-4e9d-8284-0043e4f65360.png)
+![image](https://user-images.githubusercontent.com/109723263/196986930-d9f0520a-9840-4c79-a8d8-d2d33425c591.png)
+![image](https://user-images.githubusercontent.com/109723263/196986955-aed4c6a5-5036-4468-9920-d372e9d1ea8b.png)
+
+
+
