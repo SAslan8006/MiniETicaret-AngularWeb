@@ -1,4 +1,3 @@
-# 
 # Eticaret Projesi | Front-End
 
 ### :gear: **Installation** 
